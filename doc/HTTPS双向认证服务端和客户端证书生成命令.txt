@@ -1,4 +1,4 @@
-本文引用的作者地址:
+作者(不是我)的地址
 https://github.com/cnlinrong/AndroidHttpsTest
 
 // 生成服务端密钥库（注意：别名为服务端证书别名，密钥库类型为JKS，有效期10年）
